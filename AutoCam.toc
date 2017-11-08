@@ -1,0 +1,7 @@
+## Interface: 70300
+## Title: AutoCam
+## Title-koKR: 오토캠
+## Author: Summertaker
+## Version: 1.0
+
+AutoCam.lua
